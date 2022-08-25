@@ -1,11 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @font-face{
-	font-family: "Fixedsys";
+	font-family: "Press Start 2P";
 	src: url("..//fonts/Fixedsys.ttf");
 }
 body{
 	  background: repeat url(../img/BG.jpg); 
 	  background-size: 100%;
-	 font-family: "Fixedsys";
+	 font-family: 'Press Start 2P', cursive;
 	  font-size: 16px;
 
 }
